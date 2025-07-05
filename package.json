@@ -1,0 +1,26 @@
+{
+  "name": "thomyorke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhashibuilds/thomyorke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhashibuilds/thomyorke/issues"
+  },
+  "homepage": "https://github.com/bhashibuilds/thomyorke#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple": "^0.2.0"
+  }
+}
